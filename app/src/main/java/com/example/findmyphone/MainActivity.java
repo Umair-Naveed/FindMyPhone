@@ -92,8 +92,6 @@ public class MainActivity extends AppCompatActivity {
                 break;
                 default:
                     //Toast.makeText(this, "No Change!", Toast.LENGTH_SHORT).show();
-
         }
     }
-
 }
